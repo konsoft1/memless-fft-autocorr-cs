@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34112.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourierTransformOfVectorAutocorrelation", "FourierTransformOfVectorAutocorrelation\FourierTransformOfVectorAutocorrelation.csproj", "{6A32F85A-99F1-406F-BC80-1294EAAA8627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject11111111", "UnitTestProject11111111\UnitTestProject11111111.csproj", "{17FD5F61-D4F6-4084-928F-2E9E3D753AF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A32F85A-99F1-406F-BC80-1294EAAA8627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A32F85A-99F1-406F-BC80-1294EAAA8627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A32F85A-99F1-406F-BC80-1294EAAA8627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A32F85A-99F1-406F-BC80-1294EAAA8627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17FD5F61-D4F6-4084-928F-2E9E3D753AF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17FD5F61-D4F6-4084-928F-2E9E3D753AF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17FD5F61-D4F6-4084-928F-2E9E3D753AF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17FD5F61-D4F6-4084-928F-2E9E3D753AF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F699F4C-AEEB-43EC-B953-97AC9AFFD318}
+	EndGlobalSection
+EndGlobal
